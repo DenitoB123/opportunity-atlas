@@ -4,6 +4,11 @@ This project investigates how access to information, mentorship, and socioeconom
 
 The goal is to understand why equally capable students often experience different educational outcomes.
 
+Related Projects:
+- education-data-lab (data analysis)
+- school-app-mvp (systems application)
+- python-for-research (skill development)
+
 ## Methods
 - Data collection (student surveys)
 - Python-based data analysis
