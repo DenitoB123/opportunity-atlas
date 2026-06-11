@@ -1,4 +1,4 @@
-I am researching more to economics + AI + neuroscience interdisciplinaaries as my interests lie in the intersection of those fields. 
+I am researching more to economics + AI + neuroscience interdisciplinaries as my interests lie in the intersection of those fields. 
 Thus my research  touches on :
 
 ## Economics
