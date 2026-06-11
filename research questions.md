@@ -3,31 +3,38 @@ Thus my research  touches on :
 
 ## Economics
 
-Questions like:
+  Questions like:
 
-How does information asymmetry affect decisions?
-How do financial constraints affect outcomes?
-How do incentives shape behavior?
+  How does information asymmetry affect decisions?
+  
+  How do financial constraints affect outcomes?
+  
+  How do incentives shape behavior?
 
-These are classic economic questions.
+  These are classic economic questions.
 
 ## Neuroscience
 
-Questions like:
+  Questions like:
 
-Why do students self-select out of opportunities?
-How does confidence affect decision-making?
-How do stress and scarcity affect cognition?
-How does motivation translate into action?
+  Why do students self-select out of opportunities?
+  
+  How does confidence affect decision-making?
+  
+  How do stress and scarcity affect cognition?
+  
+  How does motivation translate into action?
 
-Those are neuroscience and cognitive science questions.
+  Those are neuroscience and cognitive science questions.
 
 ## AI
 
-Questions like:
+  Questions like:
 
-Can recommendation systems identify relevant opportunities?
-Can predictive models identify students likely to abandon applications?
-Can AI personalize guidance?
+  Can recommendation systems identify relevant opportunities?
+  
+  Can predictive models identify students likely to abandon applications?
+  
+  Can AI personalize guidance?
 
-That's AI.
+  That's AI.
